@@ -13,7 +13,7 @@ const msiCreator = new MSICreator({
     exe:"ChatGPT",
     manufacturer:"Tahasin",
     version:'1.0.0',
-    icon:"icon.ico",
+    icon:"./icons/icon.ico",
 
     ui:{
         chooseDirectory:true
